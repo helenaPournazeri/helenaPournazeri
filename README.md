@@ -1,6 +1,6 @@
 - 👋 Hi, I’m helenaPournazeri
 - 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning react
+- 🌱 I’m currently react.js developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me by my email address: helenapournazeri1379@gmail.com
 
